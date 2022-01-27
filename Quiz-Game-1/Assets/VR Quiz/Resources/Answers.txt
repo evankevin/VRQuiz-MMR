@@ -1,0 +1,50 @@
+ASW:1
+$Jakarta
+Bandung
+Bogor
+Jambi
+ASW:2
+Candi Perambanan
+Candi Pawon
+$Candi Borobudur
+Candi Dieng
+ASW:3
+Minangkabau 
+$Sunda
+Bengkulu
+Ambon
+ASW:4
+15 Agustus 1945
+16 Agustus 1945
+$17 Agustus 1945
+18 Agustus 1945
+ASW:5
+Lengong
+$Piring
+Gambyong
+Tor-tor
+ASW:6
+Papua
+Bali
+Kalimantan
+$Jawa
+ASW:7
+$NTT
+Sumatra Utara
+Jawa Tengah
+NTB
+ASW:8
+$Jawa Barat
+Riau
+Bali
+Kalimantan Selatan
+ASW:9
+Papua
+Sulawesi Utara
+Jambi
+$Bali
+ASW:10
+Rumah Panggung
+Rumah Gadang
+$Rumah Honai
+Rumah Ebai

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba70a2cea5429734291953ccdfe2c441
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pathcontainer: {instanceID: 0}
+  - matRectangles: {fileID: 2100000, guid: 9df3898fcacd0fb4099115e253d57c7d, type: 2}
+  - camRender: {fileID: 6212272208141934186, guid: 936e896ee33abeb4a9fdf351fd3b4930,
+      type: 3}
+  - mshFiltOutput: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
